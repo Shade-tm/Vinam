@@ -1,0 +1,4 @@
+*.csv
+stock_prediction.h5
+start.bat
+temp.txt
